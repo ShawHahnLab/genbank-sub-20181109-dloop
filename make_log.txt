@@ -1,7 +1,7 @@
 sed 's/Republic of Congo/Republic of the Congo/' raw/split/*.fasta \
 | sed 's/Guinea Bissau/Guinea-Bissau/' \
 > dloop.fsa
-./convert_tbl.py SY94  < raw/annotations.tsv > dloop.tbl && cat SY94_custom.tbl >> dloop.tbl
+./convert_tbl.py SY94  < raw/annotations.tsv > dloop.tbl && cat raw/SY94_custom.tbl >> dloop.tbl
 tbl2asn -t raw/template.sbt.txt \
 	-j '[location=mitochondrion]' \
 	-p . \

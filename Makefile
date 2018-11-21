@@ -11,8 +11,8 @@ dloop.fsa:
 ### .tbl Features table
 # We have a spreadsheet that contains most of the features info already, but
 # then also have a custom .tbl chunk for entry SY94.
-dloop.tbl: raw/annotations.tsv
-	./convert_tbl.py SY94  < $< > $@ && cat SY94_custom.tbl >> $@
+dloop.tbl: raw/annotations.tsv raw/SY94_custom.tbl
+	./convert_tbl.py SY94  < $< > $@ && cat $(word 2,$^) >> $@
 
 ### Run tbl2asn
 # -t ... will define the template, shared across all entries
