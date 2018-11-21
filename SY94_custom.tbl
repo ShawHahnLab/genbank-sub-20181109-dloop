@@ -1,0 +1,14 @@
+>Feature SY94			
+62	127	tRNA		
+			product	tRNA-Thr
+197	130	tRNA		
+			product	tRNA-Pro
+198	>865	D-loop		
+<1	61	gene		
+			gene	CYTB
+<1	61	CDS		
+			product	cytochrome b
+			codon_start	1
+			transl_table	2
+			note	TAA stop codon is completed by the addition of 3' residues to the mRNA
+			transl_except	(pos:61,aa:TERM)

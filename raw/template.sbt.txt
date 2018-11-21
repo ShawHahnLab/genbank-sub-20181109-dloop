@@ -1,0 +1,1053 @@
+Submit-block ::= {
+  contact {
+    contact {
+      name name {
+        last "Learn",
+        first "Gerald",
+        middle "",
+        initials "",
+        suffix "",
+        title ""
+      },
+      affil std {
+        affil "University of Pennsylvania Perelman School of Medicine",
+        div "Dept. of Medicine",
+        city "Philadelphia",
+        sub "PA",
+        country "United States of America",
+        street "3610 Hamilton Walk",
+        email "glearn@pennmedicine.upenn.edu",
+        fax "215-573-8976",
+        phone "215-573-7681",
+        postal-code "19104-6076"
+      }
+    }
+  },
+  cit {
+    authors {
+      names std {
+        {
+          name name {
+            last "Bibollet-Ruche",
+            first "Frederic",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Russell",
+            first "Ronnie",
+            middle "",
+            initials "M.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Liu",
+            first "Weimin",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Stewart-Jones",
+            first "Guillaume",
+            middle "",
+            initials "B.E.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Li",
+            first "Yingying",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Learn",
+            first "Gerald",
+            middle "",
+            initials "H.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Smith",
+            first "Andrew",
+            middle "",
+            initials "G.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Gondim",
+            first "Marcos",
+            middle "",
+            initials "V.P.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Plenderleith",
+            first "Lindsey",
+            middle "",
+            initials "J.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Decker",
+            first "Julie",
+            middle "",
+            initials "M.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Easlick",
+            first "Juliet",
+            middle "",
+            initials "L.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Wetzel",
+            first "Katie",
+            middle "",
+            initials "S.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Collman",
+            first "Ronald",
+            middle "",
+            initials "G.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Ding",
+            first "Shilei",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Finzi",
+            first "Andres",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Ayouba",
+            first "Ahijo",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Peeters",
+            first "Martine",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Leendertz",
+            first "Fabian",
+            middle "",
+            initials "H.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "van Schijndel",
+            first "Joost",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Goedmakers",
+            first "Annemarie",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Ton",
+            first "Els",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Boesch",
+            first "Christophe",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Kuehl",
+            first "Hjalmar",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Arandjelovic",
+            first "Mimi",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Dieguez",
+            first "Paula",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Murai",
+            first "Mizuki",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Colin",
+            first "Christelle",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Speede",
+            first "Sheri",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Gonder",
+            first "Katy",
+            middle "",
+            initials "M.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Georgiev",
+            first "Alexander",
+            middle "",
+            initials "V.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Mueller",
+            first "Martin",
+            middle "",
+            initials "N.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Sommer",
+            first "Volker",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Sanz",
+            first "Crickette",
+            middle "",
+            initials "M.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Morgan",
+            first "David",
+            middle "",
+            initials "B.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Atencia",
+            first "Rebecca",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Cox",
+            first "Debby",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Piel",
+            first "Alex",
+            middle "",
+            initials "K.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Stewart",
+            first "Fiona",
+            middle "",
+            initials "A.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Ndjango",
+            first "Jean-Bosco",
+            middle "",
+            initials "N.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Mjungu",
+            first "Deus",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Lonsdorf",
+            first "Elizabeth",
+            middle "",
+            initials "V.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Pusey",
+            first "Anne",
+            middle "",
+            initials "E.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Bertolani",
+            first "Paco",
+            middle "",
+            initials "",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Hart",
+            first "John",
+            middle "",
+            initials "A.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Hart",
+            first "Terese",
+            middle "",
+            initials "B.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Kwong",
+            first "Peter",
+            middle "",
+            initials "D.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Sharp",
+            first "Paul",
+            middle "",
+            initials "M.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Shaw",
+            first "George",
+            middle "",
+            initials "M.",
+            suffix "",
+            title ""
+          }
+        },
+        {
+          name name {
+            last "Hahn",
+            first "Beatrice",
+            middle "",
+            initials "H.",
+            suffix "",
+            title ""
+          }
+        }
+      },
+      affil std {
+        affil "University of Pennsylvania Perelman School of Medicine",
+        div "Dept. of Medicine",
+        city "Philadelphia",
+        sub "PA",
+        country "United States of America",
+        street "3610 Hamilton Walk",
+        postal-code "19104-6076"
+      }
+    }
+  },
+  subtype new
+}
+Seqdesc ::= pub {
+  pub {
+    gen {
+      cit "unpublished",
+      authors {
+        names std {
+          {
+            name name {
+              last "Bibollet-Ruche",
+              first "Frederic",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Russell",
+              first "Ronnie",
+              middle "",
+              initials "M.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Liu",
+              first "Weimin",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Stewart-Jones",
+              first "Guillaume",
+              middle "",
+              initials "B.E.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Li",
+              first "Yingying",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Learn",
+              first "Gerald",
+              middle "",
+              initials "H.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Smith",
+              first "Andrew",
+              middle "",
+              initials "G.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Gondim",
+              first "Marcos",
+              middle "",
+              initials "V.P.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Plenderleith",
+              first "Lindsey",
+              middle "",
+              initials "J.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Decker",
+              first "Julie",
+              middle "",
+              initials "M.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Easlick",
+              first "Juliet",
+              middle "",
+              initials "L.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Wetzel",
+              first "Katie",
+              middle "",
+              initials "S.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Collman",
+              first "Ronald",
+              middle "",
+              initials "G.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Ding",
+              first "Shilei",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Finzi",
+              first "Andres",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Ayouba",
+              first "Ahijo",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Peeters",
+              first "Martine",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Leendertz",
+              first "Fabian",
+              middle "",
+              initials "H.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "van Schijndel",
+              first "Joost",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Goedmakers",
+              first "Annemarie",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Ton",
+              first "Els",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Boesch",
+              first "Christophe",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Kuehl",
+              first "Hjalmar",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Arandjelovic",
+              first "Mimi",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Dieguez",
+              first "Paula",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Murai",
+              first "Mizuki",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Colin",
+              first "Christelle",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Speede",
+              first "Sheri",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Gonder",
+              first "Katy",
+              middle "",
+              initials "M.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Georgiev",
+              first "Alexander",
+              middle "",
+              initials "V.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Mueller",
+              first "Martin",
+              middle "",
+              initials "N.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Sommer",
+              first "Volker",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Sanz",
+              first "Crickette",
+              middle "",
+              initials "M.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Morgan",
+              first "David",
+              middle "",
+              initials "B.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Atencia",
+              first "Rebecca",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Cox",
+              first "Debby",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Piel",
+              first "Alex",
+              middle "",
+              initials "K.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Stewart",
+              first "Fiona",
+              middle "",
+              initials "A.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Ndjango",
+              first "Jean-Bosco",
+              middle "",
+              initials "N.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Mjungu",
+              first "Deus",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Lonsdorf",
+              first "Elizabeth",
+              middle "",
+              initials "V.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Pusey",
+              first "Anne",
+              middle "",
+              initials "E.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Bertolani",
+              first "Paco",
+              middle "",
+              initials "",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Hart",
+              first "John",
+              middle "",
+              initials "A.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Hart",
+              first "Terese",
+              middle "",
+              initials "B.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Kwong",
+              first "Peter",
+              middle "",
+              initials "D.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Sharp",
+              first "Paul",
+              middle "",
+              initials "M.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Shaw",
+              first "George",
+              middle "",
+              initials "M.",
+              suffix "",
+              title ""
+            }
+          },
+          {
+            name name {
+              last "Hahn",
+              first "Beatrice",
+              middle "",
+              initials "H.",
+              suffix "",
+              title ""
+            }
+          }
+        }
+      },
+      title "CD4 receptor diversity in chimpanzees protects against SIV
+ infection"
+    }
+  }
+}
+Seqdesc ::= user {
+  type str "Submission",
+  data {
+    {
+      label str "AdditionalComment",
+      data str "ALT EMAIL:glearn@pennmedicine.upenn.edu"
+    }
+  }
+}
+Seqdesc ::= user {
+  type str "Submission",
+  data {
+    {
+      label str "AdditionalComment",
+      data str "Submission Title:None"
+    }
+  }
+}

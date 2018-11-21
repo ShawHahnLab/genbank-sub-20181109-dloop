@@ -1,0 +1,524 @@
+>Feature Bandit				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>482	D-loop		
+>Feature Barbara-C0462				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature BM1034				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature BO1				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature BO3				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature BO4				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature BO6				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature CC1				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature CC10				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature CC11				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>482	D-loop		
+>Feature CC18				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature CC22				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature CC23				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature CC4				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature CC6				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature CC7				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature CC9				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>500	D-loop		
+>Feature CH27				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature CH29				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature CH30				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature Cheeta-C0438				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature Cissie-C0526				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature CP1973				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature CR0724				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>482	D-loop		
+>Feature CR0765				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature CR0801				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature CR5157				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>482	D-loop		
+>Feature CR5159				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature GA1				
+11	1	tRNA		
+			product	tRNA-Pro
+12	>484	D-loop		
+>Feature GA13				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature GA18				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature GA2				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature GA4				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature GA7				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature GT134				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature GT139				
+<1	>470	D-loop		
+>Feature GT143				
+<1	>470	D-loop		
+>Feature GT146				
+<1	>470	D-loop		
+>Feature GT169				
+<1	>470	D-loop		
+>Feature GT19				
+<1	>470	D-loop		
+>Feature GT202				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature GT42				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature GT617				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>482	D-loop		
+>Feature GT707				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature GT708				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>500	D-loop		
+>Feature K1184				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature K1185				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature LB714				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature LB730				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>483	D-loop		
+>Feature LO36				
+8	1	tRNA		
+			product	tRNA-Pro
+9	>480	D-loop		
+>Feature LO37				
+8	1	tRNA		
+			product	tRNA-Pro
+9	>480	D-loop		
+>Feature LO50				
+8	1	tRNA		
+			product	tRNA-Pro
+9	>480	D-loop		
+>Feature LO51				
+8	1	tRNA		
+			product	tRNA-Pro
+9	>480	D-loop		
+>Feature LO64				
+8	1	tRNA		
+			product	tRNA-Pro
+9	>480	D-loop		
+>Feature LP12				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>500	D-loop		
+>Feature LP28				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>500	D-loop		
+>Feature LP8				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>500	D-loop		
+>Feature MB762				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature MB767				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature MB807				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature MB812				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature MB897				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>481	D-loop		
+>Feature ME2515				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>481	D-loop		
+>Feature ME2516				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature ME2519				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature ME2520				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>481	D-loop		
+>Feature ME2524				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature ME2526				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature ME2532				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature ME2535				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>481	D-loop		
+>Feature ME2536				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature Merlin-C0627				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>483	D-loop		
+>Feature NB1				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature NB16				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature NB186				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>481	D-loop		
+>Feature NB198				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature NB2				
+8	1	tRNA		
+			product	tRNA-Pro
+9	>480	D-loop		
+>Feature NB3				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>478	D-loop		
+>Feature NB43				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature NB49				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>478	D-loop		
+>Feature NB6				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>480	D-loop		
+>Feature ND3100				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature Rita-C0606				
+9	1	tRNA		
+			product	tRNA-Pro
+10	>480	D-loop		
+>Feature SL994				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY103				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY113				
+18	1	tRNA		
+			product	tRNA-Pro
+19	>490	D-loop		
+>Feature SY119				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature SY130				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY138				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY142				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature SY146				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature SY148				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY16				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature SY2				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature SY24				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY29				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY3				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>500	D-loop		
+>Feature SY30				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature SY35				
+18	1	tRNA		
+			product	tRNA-Pro
+19	>492	D-loop		
+>Feature SY38				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature SY43				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY47				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>499	D-loop		
+>Feature SY5				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY55				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY67				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY72				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature SY78				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY86				
+7	1	tRNA		
+			product	tRNA-Pro
+8	>479	D-loop		
+>Feature TC1				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC10				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC11				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC12				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC13				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>500	D-loop		
+>Feature TC14				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC15				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC17				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC19				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC2				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC20				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC21				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC22				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC23				
+18	1	tRNA		
+			product	tRNA-Pro
+19	>484	D-loop		
+>Feature TC24				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC3				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC4				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC5				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC6				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC7				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC8				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature TC9				
+26	1	tRNA		
+			product	tRNA-Pro
+27	>498	D-loop		
+>Feature SY94			
+62	127	tRNA		
+			product	tRNA-Thr
+197	130	tRNA		
+			product	tRNA-Pro
+198	>865	D-loop		
+<1	61	gene		
+			gene	CYTB
+<1	61	CDS		
+			product	cytochrome b
+			codon_start	1
+			transl_table	2
+			note	TAA stop codon is completed by the addition of 3' residues to the mRNA
+			transl_except	(pos:61,aa:TERM)

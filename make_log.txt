@@ -1,0 +1,16 @@
+sed 's/Republic of Congo/Republic of the Congo/' raw/split/*.fasta \
+| sed 's/Guinea Bissau/Guinea-Bissau/' \
+> dloop.fsa
+./convert_tbl.py SY94  < raw/annotations.tsv > dloop.tbl && cat SY94_custom.tbl >> dloop.tbl
+tbl2asn -t raw/template.sbt.txt \
+	-j '[location=mitochondrion]' \
+	-p . \
+	-a s \
+	-V vb -Z discrep_report.txt && \
+grep . *.val
+[tbl2asn] Flatfile dloop
+
+[tbl2asn] Validating dloop
+
+dloop.val:WARNING: valid [SEQ_FEAT.EcNumberProblem] Replacement EC number 1.14.13.136 not in live internal list BIOSEQ: lcl|BM1034: raw, dna len= 498
+errorsummary.val:     1 WARNING: SEQ_FEAT.EcNumberProblem
